@@ -24,11 +24,11 @@
 `roscore`  
 
 端末２  
-`chmod +x count.py`
+`chmod +x count.py`  
 `rosrun mypkg count.py`  
 
 端末３  
-`chmod +x twice.py`
+`chmod +x twice.py`  
 `rosrun mypkg twice.py`  
 
 端末４  
