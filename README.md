@@ -24,10 +24,12 @@
 `roscore`  
 
 端末２  
-`rosrun robosys2020_work2 count.py`  
+`chmod +x count.py`
+`rosrun mypkg count.py`  
 
 端末３  
-`rosrun robosys2020_work2 twice.py`  
+`chmod +x twice.py`
+`rosrun mypkg twice.py`  
 
 端末４  
 `rostopic echo /twice`  
